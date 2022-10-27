@@ -1,0 +1,102 @@
+---
+layout: single
+title:  "Test upload"
+---
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 2.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+시흥?
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+
+
+&lt;과거 조선시대 한성부 경계>
+
+
+
+* 시흥은 과거 한성부 이남의 매우 넓은 농촌지역
+* 1914년 시흥郡은 매우 넓은 농업지역을 포괄하던 넓은 행정단위
+    * 영등포, 당산, 도림, 가리봉, 봉천, 신림, 과천, 광명, 안양, 안산 등 포함
+    * 현 서울의 금천구 시흥동은 그 흔적
+* 위 지역들이 여러 시로 분리-통합하는 과정을 거쳐 현재의 시흥 형성
+    * 그 과정에서 서울에 편입되거나, 통합-독립하거나 하는 과정 거침
+    * 이후 위성도시 필요성과 공업도시 교외화가 진행되며 시로 승격
+* 시흥의 특성
+    * 1989년 시로 승격 당시 8.9만명
+        * 2022년 현재 56.9만명으로 승격 당시보다 6배 이상 성장
+        * 낮은 평균연령 형성
+            * 외부 유입인구가 매우 많은 특성 (공업도시)
+            * 고령화지수 전국평균 16.1% / 시흥시 9.1%
+                * 대한민국 고령화지수 급격히 상승중 (7% / 14% / 20%)
+            * 시민들의 정주의식 낮음
+                * ‘나는 시흥 사람이야.’ 라는 인식 낮음.
+                * 지역 공동체 의식 형성 / 발전 / 확장에 걸림돌
+                    * 문제 해결의식 ↓
+                    * 매우 낮은 사회적 자본
+                        * 사회적 관계도 자본의 역할이 될 수 있다는걸 
+
+                            ‘사회적 자본’ 이라고 함
+
+* 낮은 범죄율 / 높은 네트워크적 호혜성 등이
+
+                            사회적 자본이 높을 때 오는 이익
+
+                * ‘생태문화도시’ 시흥
+                    * 정주의식을 높이기 위한 브랜딩
+                    * 공동체의식 향상을 도모하기 위한 시설 多
+    * 시흥의 역사는 산업화 / 정보화 / 세계화의 영향을 고스란히 반영
+* 왜 시흥인가?
+    * 현대의 여러 영향들을 반영하는 도시
+    * 일상의 사회적 삶이 이루어지는 근린영역(Neigborhood)을 탐구하고,
+
+        문제를 인식함으로써 현대 한국사회 전반의 이해를 위한 인식론적 확장이 가능
+
+        * Inner City Problem 해결을 위한 CE교과
+        * 예일대 총장의 취임사 사례 (1993)
+
+            
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+        * 예일 데일리 (일간) / 학생 시의원 제도 (1번 선거구가 예일대)
+    * 왜 한국공대인가?
+        * 시흥시 유일의 4년제 대학
+        * 시흥 인구의 10% 이상의 학생 / 교직원 수
+        * 시화단지 내에 있는 캠퍼스
+            * 엔지니어 인력 양성
+            * 활발히 이루어지고 있는 산학협력
+
+사회학적 탐구
+
+
+
+* 안다
+    * 아는 것은 ‘합의’의 영역
+        * 지구는 둥글다
+        * 화성엔 사람이 살지 않는다
+    * 합의 VS 경험
+        * 합의가 틀린 경우
+            * 지동설 vs 천동설
+            * 새우튀김 이야기
+                * 경험과 합의가 충돌할 때…
+                    * 대개 합의가 우선되는 경향이 있음
+                * 무엇이 진짜인가? 를 어떻게 아는지 정의하는 것이 과학
+* 일상적 탐구에서의 오류
+    * 관찰의 부정확성 [파란색 셔츠 / 갈색 버클 / 베이지색 면바지]
+        * 과학적 탐구에서는 이를 보조하기 위해 도구 활용
